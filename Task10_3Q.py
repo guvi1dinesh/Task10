@@ -1,4 +1,4 @@
-#(10Q) UML diagram in python class and methods:
+#(3Q) UML diagram in python class and methods:
 
 
 #  class audio:
